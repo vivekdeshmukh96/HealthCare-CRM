@@ -1,6 +1,7 @@
 Problem Statement
 “MediSmart CRM: AI-Powered Healthcare Appointment and Patient Follow-up CRM”
-Description
+
+Description:
 An AI-driven Healthcare Appointment & Patient Follow-up CRM designed to transform patient management. Along with traditional features like appointment scheduling, automated reminders, patient history tracking, and follow-up management, the system introduces advanced capabilities including:
 •
 AI-powered appointment optimization to recommend the least busy time slots based on doctor availability, predicted patient flow, and urgency.
